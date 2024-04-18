@@ -1,0 +1,9 @@
+loguru==0.7.2
+numpy==1.21.6
+openhgnn==0.4.2
+python_box==7.0.1
+PyYAML==6.0
+scipy==1.7.3
+torch==1.13.1
+tqdm==4.65.0
+transformers==4.30.2
