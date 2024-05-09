@@ -17,7 +17,7 @@ This repository contains data and code for the AAAI 2024 paper: [Harnessing Holi
 To clone the repository, please run the following command:
 
 ```bash
-git clone https://github.com/unikcc/h2dt
+git clone https://github.com/whulacc/h2dt
 ```
 
 ## Quick Links
